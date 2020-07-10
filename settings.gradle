@@ -1,0 +1,2 @@
+rootProject.name='BUSINESS CARD APP'
+include ':app'
